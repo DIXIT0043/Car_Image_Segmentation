@@ -1,5 +1,7 @@
-tensorflow
-keras
-matplotlib
-opencv-python
-numpy
+TensorFlow==2.17.0
+Keras== 3.5.0
+Matplotlib== 3.9.2
+OpenCV== 4.10.0
+NumPy== 1.26.4
+Streamlit== 1.37.1
+Pandas== 2.2.2
