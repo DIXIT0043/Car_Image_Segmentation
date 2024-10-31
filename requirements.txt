@@ -5,3 +5,4 @@ opencv-python
 numpy>=1.26.4
 streamlit>=1.37.1
 pandas>=2.2.2
+scikit-learn
