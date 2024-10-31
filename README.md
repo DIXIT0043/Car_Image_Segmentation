@@ -1,7 +1,8 @@
-#Comprehensive Car Image Segmentation Project Report
-
 ## Project Overview
 This project implements an advanced computer vision system for car image segmentation using deep learning techniques. The system automatically identifies and isolates car regions within images using semantic segmentation, where each pixel is classified as either belonging to a car or the background.
+
+link: https://car-image-seg-by-dixit.streamlit.app/
+
 
 ## Technical Architecture Deep Dive
 
